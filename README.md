@@ -1,5 +1,3 @@
-### Test web-design [here] (https://github.com/Rupalis123/Web-Design-Challenge/)
-
 ### Web Design Challenge - Web Visualization Dashboard (Latitude)
 
 ## Background
