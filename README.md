@@ -14,8 +14,6 @@ This dashboard includes individual pages for each plot and provides navigation b
 
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
 The website consist of pages, including:
 
 * A [landing page](#landing-page) containing:
