@@ -1,3 +1,5 @@
+## [Web Design Challenge](index.html)
+
 ### Web Design Challenge - Web Visualization Dashboard (Latitude)
 
 ## Background
