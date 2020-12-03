@@ -8,7 +8,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-Created a visualization dashboard website using visualizations from the past assignment; plotting [weather data](Web-Design-Challenge/WebVisualizations/)
+Created a visualization dashboard website using visualizations from the past assignment; plotting [weather data](WebVisualizations/cities.csv)
 
 This dashboard includes individual pages for each plot and provides navigation between them. It also has a landing page, a comparison page to see a comparison of all of the plots, and a page to view the data used to build them.
 
