@@ -1,4 +1,4 @@
-## [Web Design Challenge](https://rupalis123.github.io/Web-Design-Challenge)
+## Click here for the [Web Design Challenge](https://rupalis123.github.io/Web-Design-Challenge)
 
 ### Web Design Challenge - Web Visualization Dashboard (Latitude)
 
